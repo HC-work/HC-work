@@ -1,0 +1,1 @@
+sourcetree5 .git/config add local gpgsign=true by git config commit.gpgsign true
